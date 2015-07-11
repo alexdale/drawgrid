@@ -1,2 +1,2 @@
 # drawgrid
-Learning jQuery/JS
+Learning jQuery/JS, interactive draw grid.
