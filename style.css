@@ -1,0 +1,12 @@
+.playArea{
+	margin-top: 30px;
+	width:1000px;
+	height:1000px;
+}
+.box {
+	width: 25px;
+	height: 25px;
+	background-color: white;
+	outline: 1px solid;
+	float:left;
+}
